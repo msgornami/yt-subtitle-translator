@@ -1,0 +1,3 @@
+<manifest xmlns:android="http://schemas.android.com/apk/res/android" package="com.lsposed.translator">
+<application android:label="YT Subtitle Translator" android:allowBackup="false"/>
+</manifest>
